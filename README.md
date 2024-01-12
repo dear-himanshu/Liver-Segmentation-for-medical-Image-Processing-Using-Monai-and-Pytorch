@@ -20,8 +20,8 @@ pip install monai
 ```
 pip install -r requirements.txt
 ```
-Results 
+## Results:
 
-![Output image]()
+![Output image](https://github.com/dear-himanshu/Liver-Segmentation-for-medical-Image-Processing-Using-Monai-and-Pytorch/blob/main/Result.PNG)
 
 
