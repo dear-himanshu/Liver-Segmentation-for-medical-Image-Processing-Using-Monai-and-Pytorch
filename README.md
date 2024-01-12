@@ -2,7 +2,7 @@
 You'll find all the Python files you need to accomplish liver segmentation with Monai and PyTorch in this repo, and you can use the same code to segment other organs as well.
 
 
-![Output image](/home/albertross/Desktop/Liver-Segmentation-Using-Monai-and-PyTorch/images/liver_segmentation.PNG)
+![Output image](https://github.com/dear-himanshu/Liver-Segmentation-for-medical-Image-Processing-Using-Monai-and-Pytorch/blob/main/liver_segmentation.PNG)
 
 
 ## Cloning the repo
