@@ -20,3 +20,8 @@ pip install monai
 ```
 pip install -r requirements.txt
 ```
+Results 
+
+![Output image]()
+
+
