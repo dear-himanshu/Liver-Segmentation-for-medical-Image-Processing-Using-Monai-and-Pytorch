@@ -8,10 +8,10 @@ You'll find all the Python files you need to accomplish liver segmentation with 
 ## Cloning the repo
 You can start by cloning this repo in your wordspace and then start playing with the function to make your project done.
 ```
-git clone https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch
+git clone https://github.com/dear-himanshu/Liver-Segmentation-for-medical-Image-Processing-Using-Monai-and-Pytorch
 ```
 ```
-cd ./Liver-Segmentation-Using-Monai-and-PyTorch
+cd ./Liver-Segmentation-for-medical-Image-Processing-Using-Monai-and-Pytorch
 ```
 ## Packages that need to be installed:
 ```
